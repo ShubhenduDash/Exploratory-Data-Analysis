@@ -22,16 +22,16 @@ The following descriptions of the 9 variables in the dataset are taken from the 
 
 Plot 1
 
-![](https://github.com/mGalarnyk/datasciencecoursera/blob/master/4_Exploratory_Data_Analysis/project1/plot1.png)
+![](https://github.com/ShubhenduDash/ExploratoryDataAnalysis_Project1/blob/master/plot1.png)
 
 Plot 2
 
-![](https://github.com/mGalarnyk/datasciencecoursera/blob/master/4_Exploratory_Data_Analysis/project1/plot2.png)
+![](https://github.com/ShubhenduDash/ExploratoryDataAnalysis_Project1/blob/master/plot2.png)
 
 Plot 3
 
-![](https://github.com/mGalarnyk/datasciencecoursera/blob/master/4_Exploratory_Data_Analysis/project1/plot3.png)
+![](https://github.com/ShubhenduDash/ExploratoryDataAnalysis_Project1/blob/master/plot3.png)
 
 Plot 4
 
-![](https://github.com/mGalarnyk/datasciencecoursera/blob/master/4_Exploratory_Data_Analysis/project1/plot4.png)
+![](https://github.com/ShubhenduDash/ExploratoryDataAnalysis_Project1/blob/master/plot4.png)
